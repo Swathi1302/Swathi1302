@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Swathi1302/Swathi1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Swathi H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
