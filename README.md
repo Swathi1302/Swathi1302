@@ -2,7 +2,8 @@
 
 
 **Swathi H**  Java Full Stack Developer 
-<h4>I am from Bangalore</h4>
+I am from Bangalore
+<h5>I'm currently working on building web applications and contributing to open-source projects. I'm proficient in Java, Html, Css, JavaScript and Python and I'm always looking to learn more. </h5>
 
 <!-- Here are some ideas to get you started:
 
