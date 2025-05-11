@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-**Swathi H**  Java Full Stack Developer
+**Swathi H**  Java Full Stack Developer 
+<h4>I am from Bangalore</h4>
 
 <!-- Here are some ideas to get you started:
 
